@@ -46,6 +46,6 @@ This was supported in part by the Data Mining Group at Northeastern University. 
 ```
 
 ## ToDo
-[ ] More types of entities and relationships are in the task graph.
-[ ] Multi-group random experiments.
-[ ] More colorful prompts.
+- [ ] More types of entities and relationships are in the task graph.
+- [ ] Multi-group random experiments.
+- [ ] More colorful prompts.
