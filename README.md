@@ -22,8 +22,10 @@ This repository is the basic schemas, antonomasias, and the knowledge of relatio
   ```
 - `task_graph.txt` is the randomly constructed task graph in our experiments.
   - Process of constructing the task graph randomly.
+    
     ![](https://github.com/NEU-DataMining/RoCar/blob/main/figures/taskgraph.png)
   - Task graph.
+    
     ![](https://github.com/NEU-DataMining/RoCar/blob/main/figures/socialnetwork.png)
 - `reasoning.txt` contains evaluation tasks in reasoning capability evaluation experiments.
 - `memory.txt` contains evaluation tasks in memory capability evaluation experiments.
