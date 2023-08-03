@@ -21,6 +21,10 @@ This repository is the basic schemas, antonomasias, and the knowledge of relatio
   长三辈，以自己父母类比加个“太”字例如:爸爸的爷爷一太爷爷、爸爸的外公一太外公、妈妈的外婆一太外婆
   ```
 - `task_graph.txt` is the randomly constructed task graph in our experiments.
+  - Process of constructing the task graph randomly.
+    ![](https://github.com/NEU-DataMining/RoCar/figures/taskgraph.png)
+  - Task graph.
+    ![](https://github.com/NEU-DataMining/RoCar/figures/socialnetwork.png)
 - `reasoning.txt` contains evaluation tasks in reasoning capability evaluation experiments.
 - `memory.txt` contains evaluation tasks in memory capability evaluation experiments.
 
